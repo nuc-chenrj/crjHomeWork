@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1af8de6f-3351-4759-9ead-f056397ff3a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dy03/HomeWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dy03/HomeWork.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +13,22 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\zbideaWorkspace\work\.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -47,10 +58,36 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dy03.HomeWork" />
+      <module name="work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dy03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HomeWork" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -74,25 +111,67 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592354048071</updated>
-      <workItem from="1592354051792" duration="672000" />
+      <workItem from="1592354051792" duration="2201000" />
+      <workItem from="1592358481073" duration="935000" />
+      <workItem from="1592362076017" duration="574000" />
     </task>
+    <task id="LOCAL-00001" summary="陈瑞杰作业结构">
+      <created>1592354931368</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592354931368</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="陈瑞杰作业结构" />
+    <option name="LAST_COMMIT_MESSAGE" value="陈瑞杰作业结构" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="152" key="#Project_Structure" timestamp="1592354729148">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="0" y="152" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1592354729148" />
+    <state x="405" y="15" key="CommitChangelistDialog2" timestamp="1592363920169">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="405" y="15" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1592363920169" />
     <state x="778" y="215" key="FileChooserDialogImpl" timestamp="1592354821226">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="778" y="215" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1592354821226" />
+    <state width="1322" height="357" key="GridCell.Tab.0.bottom" timestamp="1592362649655">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1322" height="357" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1592362649655" />
+    <state width="1322" height="357" key="GridCell.Tab.0.center" timestamp="1592362649655">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1322" height="357" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1592362649655" />
+    <state width="1322" height="357" key="GridCell.Tab.0.left" timestamp="1592362649655">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1322" height="357" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1592362649655" />
+    <state width="1322" height="357" key="GridCell.Tab.0.right" timestamp="1592362649655">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1322" height="357" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1592362649655" />
     <state x="378" y="91" width="996" height="707" key="SettingsEditor" timestamp="1592354476261">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="378" y="91" width="996" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1592354476261" />
+    <state x="379" y="151" key="Vcs.Push.Dialog.v2" timestamp="1592363929551">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="379" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1592363929551" />
+    <state x="457" y="208" key="git4idea.merge.GitPullDialog" timestamp="1592355344680">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="457" y="208" key="git4idea.merge.GitPullDialog/0.0.1536.834@0.0.1536.834" timestamp="1592355344680" />
   </component>
 </project>
