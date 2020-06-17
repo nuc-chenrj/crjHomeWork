@@ -6,6 +6,15 @@ public class HomeWork {
     public static void main(String[] args) {
         multiplicationTable();
         isoscelesTriangle();
+
+        int ans=0;
+        for(int i=1;i<=100;i++){
+            if(isPri(i)){
+                System.out.println(i);
+                ans+=i;
+            }
+        }
+        System.out.println(ans);
     }
     public static void isoscelesTriangle(){
         int n=6;
@@ -24,6 +33,13 @@ public class HomeWork {
                 System.out.print(j+"*"+i+"="+i*j+" ");
                 System.out.println();
         }
+    }
+
+    public static boolean isPri(int n){
+        if(n==1)return false;
+        for(int i=2;i*i<=n;i++)
+            if(n%i==0)return false;
+        return true;
     }
 
 }
