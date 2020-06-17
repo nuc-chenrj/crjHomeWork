@@ -10,7 +10,7 @@ public class HomeWork {
         int ans=0;
         for(int i=1;i<=100;i++){
             if(isPri(i)){
-                System.out.println(i);
+//                System.out.println(i);
                 ans+=i;
             }
         }

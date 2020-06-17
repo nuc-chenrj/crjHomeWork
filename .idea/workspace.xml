@@ -116,7 +116,7 @@
       <workItem from="1592362076017" duration="574000" />
       <workItem from="1592363846846" duration="804000" />
       <workItem from="1592377518502" duration="789000" />
-      <workItem from="1592380016225" duration="248000" />
+      <workItem from="1592380016225" duration="521000" />
     </task>
     <task id="LOCAL-00001" summary="陈瑞杰作业结构">
       <created>1592354931368</created>
@@ -132,7 +132,21 @@
       <option name="project" value="LOCAL" />
       <updated>1592364011420</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="陈瑞杰作业">
+      <created>1592380347308</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592380347308</updated>
+    </task>
+    <task id="LOCAL-00004" summary="陈瑞杰作业">
+      <created>1592380428652</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592380428652</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,10 +162,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="0" y="152" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1592354729148" />
-    <state x="342" y="15" key="CommitChangelistDialog2" timestamp="1592380344551">
+    <state x="342" y="15" key="CommitChangelistDialog2" timestamp="1592380426220">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="342" y="15" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1592380344551" />
+    <state x="342" y="15" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1592380426220" />
     <state x="778" y="215" key="FileChooserDialogImpl" timestamp="1592354821226">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -176,10 +190,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="378" y="91" width="996" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1592354476261" />
-    <state x="379" y="151" key="Vcs.Push.Dialog.v2" timestamp="1592380362981">
+    <state x="333" y="140" key="Vcs.Push.Dialog.v2" timestamp="1592380497596">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="379" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1592380362981" />
+    <state x="333" y="140" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1592380497596" />
     <state x="457" y="208" key="git4idea.merge.GitPullDialog" timestamp="1592355344680">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
