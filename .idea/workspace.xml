@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1af8de6f-3351-4759-9ead-f056397ff3a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dy05/Time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dy06/Copy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dy06/Copy2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/b.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dy06/Copy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dy06/Copy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +50,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1dQOrRNtDI10uUYUEwIOVkkoL2M" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -72,7 +76,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.Copy">
+  <component name="RunManager" selected="Application.Copy2">
     <configuration name="Arr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dy04.Arr" />
       <module name="work" />
@@ -99,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dy04.Game" />
+    <configuration name="Copy2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dy06.Copy2" />
       <module name="work" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dy04.*" />
+          <option name="PATTERN" value="dy06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dy04.Test" />
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dy04.Game" />
       <module name="work" />
       <extension name="coverage">
         <pattern>
@@ -140,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Copy2" />
         <item itemvalue="Application.Copy" />
         <item itemvalue="Application.Time" />
         <item itemvalue="Application.Arr" />
         <item itemvalue="Application.Game" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +186,7 @@
       <workItem from="1592536947270" duration="1049000" />
       <workItem from="1592618869956" duration="612000" />
       <workItem from="1592620408150" duration="73000" />
-      <workItem from="1592638231088" duration="2823000" />
+      <workItem from="1592638231088" duration="3918000" />
     </task>
     <task id="LOCAL-00001" summary="陈瑞杰作业结构">
       <created>1592354931368</created>
@@ -240,13 +244,21 @@
       <option name="project" value="LOCAL" />
       <updated>1592471532017</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="陈瑞杰作业">
+      <created>1592641609516</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1592641609516</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="陈瑞杰作业结构" />
     <MESSAGE value="陈瑞杰作业" />
     <option name="LAST_COMMIT_MESSAGE" value="陈瑞杰作业" />
@@ -260,30 +272,30 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="850" y="174" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1592445632739" />
-    <state x="185" y="0" key="CommitChangelistDialog2" timestamp="1592641593723">
+    <state x="185" y="0" key="CommitChangelistDialog2" timestamp="1592641606767">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="185" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1592641593723" />
+    <state x="185" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1592641606767" />
     <state x="778" y="215" key="FileChooserDialogImpl" timestamp="1592354821226">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="778" y="215" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1592354821226" />
-    <state width="1322" height="242" key="GridCell.Tab.0.bottom" timestamp="1592641593754">
+    <state width="1322" height="292" key="GridCell.Tab.0.bottom" timestamp="1592642608717">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1322" height="242" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1592641593754" />
-    <state width="1322" height="242" key="GridCell.Tab.0.center" timestamp="1592641593754">
+    <state width="1322" height="292" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1592642608717" />
+    <state width="1322" height="292" key="GridCell.Tab.0.center" timestamp="1592642608717">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1322" height="242" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1592641593754" />
-    <state width="1322" height="242" key="GridCell.Tab.0.left" timestamp="1592641593754">
+    <state width="1322" height="292" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1592642608717" />
+    <state width="1322" height="292" key="GridCell.Tab.0.left" timestamp="1592642608717">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1322" height="242" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1592641593754" />
-    <state width="1322" height="242" key="GridCell.Tab.0.right" timestamp="1592641593754">
+    <state width="1322" height="292" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1592642608717" />
+    <state width="1322" height="292" key="GridCell.Tab.0.right" timestamp="1592642608717">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1322" height="242" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1592641593754" />
+    <state width="1322" height="292" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1592642608717" />
     <state width="1322" height="242" key="GridCell.Tab.1.bottom" timestamp="1592388264423">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -304,10 +316,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="378" y="91" width="996" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1592354476261" />
-    <state x="343" y="169" key="Vcs.Push.Dialog.v2" timestamp="1592471671433">
+    <state x="343" y="169" key="Vcs.Push.Dialog.v2" timestamp="1592641669808">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="343" y="169" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1592471671433" />
+    <state x="343" y="169" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1592641669808" />
     <state x="471" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1592620473677">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
