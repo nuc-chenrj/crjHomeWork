@@ -1,4 +1,4 @@
-package dy05;
+package day05;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

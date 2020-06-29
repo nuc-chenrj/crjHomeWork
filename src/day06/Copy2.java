@@ -1,4 +1,4 @@
-package dy06;
+package day06;
 
 import java.io.*;
 

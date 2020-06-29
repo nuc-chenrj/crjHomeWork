@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1af8de6f-3351-4759-9ead-f056397ff3a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dy07/PrintDate.java" afterDir="false" />
+    <list default="true" id="1af8de6f-3351-4759-9ead-f056397ff3a8" name="Default Changelist" comment="陈瑞杰作业">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/c3p0_0_9_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/c3p0-0.9.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c3p0-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/DBUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dy03/HomeWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day03/HomeWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dy04/Arr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day04/Arr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dy04/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day04/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dy04/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day04/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dy04/SportsCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day04/SportsCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dy04/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day04/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dy05/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day05/Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dy06/Copy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Copy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dy06/Copy2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Copy2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dy07/PrintDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day07/PrintDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work.iml" beforeDir="false" afterPath="$PROJECT_DIR$/work.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,38 +79,31 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.PrintDate">
-    <configuration name="Arr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dy04.Arr" />
-      <module name="work" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dy04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\zbideaWorkspace\work\src" />
+      <recent name="D:\zbideaWorkspace\work\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Copy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dy06.Copy" />
+      <option name="MAIN_CLASS_NAME" value="day06.Copy" />
       <module name="work" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dy06.*" />
+          <option name="PATTERN" value="day06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +112,24 @@
       </method>
     </configuration>
     <configuration name="Copy2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dy06.Copy2" />
+      <option name="MAIN_CLASS_NAME" value="day06.Copy2" />
       <module name="work" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dy06.*" />
+          <option name="PATTERN" value="day06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day08.Main" />
+      <module name="work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +138,11 @@
       </method>
     </configuration>
     <configuration name="PrintDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dy07.PrintDate" />
+      <option name="MAIN_CLASS_NAME" value="day07.PrintDate" />
       <module name="work" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dy07.*" />
+          <option name="PATTERN" value="day07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +151,11 @@
       </method>
     </configuration>
     <configuration name="Time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dy05.Time" />
+      <option name="MAIN_CLASS_NAME" value="day05.Time" />
       <module name="work" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dy05.*" />
+          <option name="PATTERN" value="day05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.PrintDate" />
         <item itemvalue="Application.Copy2" />
         <item itemvalue="Application.Copy" />
         <item itemvalue="Application.Time" />
-        <item itemvalue="Application.Arr" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +208,8 @@
       <workItem from="1592618869956" duration="612000" />
       <workItem from="1592620408150" duration="73000" />
       <workItem from="1592638231088" duration="5204000" />
-      <workItem from="1592811018658" duration="739000" />
+      <workItem from="1592811018658" duration="1023000" />
+      <workItem from="1593412405252" duration="6268000" />
     </task>
     <task id="LOCAL-00001" summary="陈瑞杰作业结构">
       <created>1592354931368</created>
@@ -256,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592642672409</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="陈瑞杰作业">
+      <created>1592811817314</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1592811817314</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,58 +305,58 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="0" y="152" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1592354729148" />
-    <state x="850" y="174" key="#com.intellij.ide.util.MemberChooser" timestamp="1592445632739">
+    <state x="850" y="174" key="#com.intellij.ide.util.MemberChooser" timestamp="1593416929799">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="850" y="174" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1592445632739" />
-    <state x="185" y="0" key="CommitChangelistDialog2" timestamp="1592642669915">
+    <state x="850" y="174" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1593416929799" />
+    <state x="185" y="0" key="CommitChangelistDialog2" timestamp="1593418703488">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="185" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1592642669915" />
+    <state x="185" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1593418703488" />
     <state x="778" y="215" key="FileChooserDialogImpl" timestamp="1592354821226">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="778" y="215" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1592354821226" />
-    <state width="1322" height="374" key="GridCell.Tab.0.bottom" timestamp="1592811781122">
+    <state width="1281" height="283" key="GridCell.Tab.0.bottom" timestamp="1593418703524">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1322" height="374" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1592811781122" />
-    <state width="1322" height="374" key="GridCell.Tab.0.center" timestamp="1592811781121">
+    <state width="1281" height="283" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593418703524" />
+    <state width="1281" height="283" key="GridCell.Tab.0.center" timestamp="1593418703523">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1322" height="374" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1592811781121" />
-    <state width="1322" height="374" key="GridCell.Tab.0.left" timestamp="1592811781121">
+    <state width="1281" height="283" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1593418703523" />
+    <state width="1281" height="283" key="GridCell.Tab.0.left" timestamp="1593418703523">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1322" height="374" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1592811781121" />
-    <state width="1322" height="374" key="GridCell.Tab.0.right" timestamp="1592811781122">
+    <state width="1281" height="283" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1593418703523" />
+    <state width="1281" height="283" key="GridCell.Tab.0.right" timestamp="1593418703524">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1322" height="374" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1592811781122" />
-    <state width="1322" height="254" key="GridCell.Tab.1.bottom" timestamp="1592811298696">
+    <state width="1281" height="283" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1593418703524" />
+    <state width="1322" height="254" key="GridCell.Tab.1.bottom" timestamp="1592812042589">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1322" height="254" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1592811298696" />
-    <state width="1322" height="254" key="GridCell.Tab.1.center" timestamp="1592811298696">
+    <state width="1322" height="254" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1592812042589" />
+    <state width="1322" height="254" key="GridCell.Tab.1.center" timestamp="1592812042589">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1322" height="254" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1592811298696" />
-    <state width="1322" height="254" key="GridCell.Tab.1.left" timestamp="1592811298696">
+    <state width="1322" height="254" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1592812042589" />
+    <state width="1322" height="254" key="GridCell.Tab.1.left" timestamp="1592812042589">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1322" height="254" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1592811298696" />
-    <state width="1322" height="254" key="GridCell.Tab.1.right" timestamp="1592811298696">
+    <state width="1322" height="254" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1592812042589" />
+    <state width="1322" height="254" key="GridCell.Tab.1.right" timestamp="1592812042589">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1322" height="254" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1592811298696" />
-    <state x="378" y="91" width="996" height="707" key="SettingsEditor" timestamp="1592354476261">
+    <state width="1322" height="254" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1592812042589" />
+    <state x="312" y="103" width="996" height="707" key="SettingsEditor" timestamp="1593413002402">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="378" y="91" width="996" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1592354476261" />
-    <state x="343" y="169" key="Vcs.Push.Dialog.v2" timestamp="1592642677642">
+    <state x="312" y="103" width="996" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1593413002402" />
+    <state x="343" y="169" key="Vcs.Push.Dialog.v2" timestamp="1592811862712">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="343" y="169" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1592642677642" />
+    <state x="343" y="169" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1592811862712" />
     <state x="471" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1592620473677">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

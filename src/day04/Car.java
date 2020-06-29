@@ -1,4 +1,4 @@
-package dy04;
+package day04;
 
 public abstract class Car {
     private String brand;

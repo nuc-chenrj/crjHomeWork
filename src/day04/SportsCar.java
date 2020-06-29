@@ -1,4 +1,4 @@
-package dy04;
+package day04;
 
 public class SportsCar extends Car{
 

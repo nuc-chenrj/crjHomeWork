@@ -1,4 +1,4 @@
-package dy03;
+package day03;
 
 public class HomeWork {
   //测试
